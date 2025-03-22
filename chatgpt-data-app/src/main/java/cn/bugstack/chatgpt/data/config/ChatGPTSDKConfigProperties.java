@@ -4,9 +4,9 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author Fuzhengwei bugstack.cn @小傅哥
+ * @author yifan
  * @description
- * @create 2023-07-22 20:36
+ * @create 2025
  */
 @Data
 @ConfigurationProperties(prefix = "chatgpt.sdk.config", ignoreInvalidFields = true)
